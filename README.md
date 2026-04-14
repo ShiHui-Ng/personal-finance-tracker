@@ -28,3 +28,5 @@ A Python-based finance tracking application that allows users to:
    python main.py
 
 ## Sample Output
+<img width="1992" height="1578" alt="image" src="https://github.com/user-attachments/assets/eaf7d7f8-09fb-46d5-9b22-dea8a61c6eeb" />
+* Note: Data provided in this repo is a dummy data generated with AI, you may wish to change to your own data for more accurate results.
